@@ -6,8 +6,8 @@
 # ----------------------------------------------------------
 Problem: 
 - Name: unknown
-  Lower bound: 6.43118493936
-  Upper bound: 6.43118493936
+  Lower bound: 6.43118493935767
+  Upper bound: 6.43118493935767
   Number of objectives: 1
   Number of constraints: 68
   Number of variables: 71
@@ -24,7 +24,7 @@ Solver:
       Number of bounded subproblems: 1
       Number of created subproblems: 1
   Error rc: 0
-  Time: 0.0117330551147
+  Time: 0.05557703971862793
 # ----------------------------------------------------------
 #   Solution Information
 # ----------------------------------------------------------
@@ -36,24 +36,24 @@ Solution:
   Message: None
   Objective:
     cost:
-      Value: 6.43118493936
+      Value: 6.431184939357673
   Variable:
-    x[6,5]:
+    x[3,4]:
       Value: 1
-    y[3]:
+    x[6,1]:
       Value: 1
     x[6,2]:
       Value: 1
+    x[6,3]:
+      Value: 1
+    x[6,5]:
+      Value: 1
     x[9,6]:
       Value: 1
-    y[9]:
-      Value: 1
-    x[3,4]:
+    y[3]:
       Value: 1
     y[6]:
       Value: 1
-    x[6,3]:
-      Value: 1
-    x[6,1]:
+    y[9]:
       Value: 1
   Constraint: No values
